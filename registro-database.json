@@ -1,0 +1,209 @@
+[
+  {
+    "id": "4",
+    "modelo": "Honda Pop 110i",
+    "placa": "BRZ-1001",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "3"
+  },
+  {
+    "id": "5",
+    "modelo": "Yamaha Factor 150",
+    "placa": "BRZ-1002",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "3"
+  },
+  {
+    "id": "6",
+    "modelo": "Honda NXR 160 Bros",
+    "placa": "BRZ-1003",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "3"
+  },
+  {
+    "id": "7",
+    "modelo": "Honda Biz 125",
+    "placa": "BRZ-1004",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "3"
+  },
+  {
+    "id": "8",
+    "modelo": "Yamaha Fazer FZ25",
+    "placa": "BRZ-1005",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "3"
+  },
+  {
+    "id": "9",
+    "modelo": "Honda CB 300F Twister",
+    "placa": "BRZ-1006",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "4"
+  },
+  {
+    "id": "10",
+    "modelo": "Yamaha Lander 250",
+    "placa": "BRZ-1007",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "4"
+  },
+  {
+    "id": "11",
+    "modelo": "Royal Enfield Meteor 350",
+    "placa": "BRZ-1008",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "4"
+  },
+  {
+    "id": "12",
+    "modelo": "Honda PCX 150",
+    "placa": "BRZ-1009",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "4"
+  },
+  {
+    "id": "13",
+    "modelo": "Honda CG 160",
+    "placa": "BRZ-1010",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "4"
+  },
+  {
+    "id": "14",
+    "modelo": "Yamaha NMAX 160",
+    "placa": "BRZ-1011",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "4"
+  },
+  {
+    "id": "15",
+    "modelo": "BMW G 310 GS",
+    "placa": "BRZ-1012",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "4"
+  },
+  {
+    "id": "16",
+    "modelo": "Honda Pop 110i",
+    "placa": "BRZ-1013",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "5"
+  },
+  {
+    "id": "17",
+    "modelo": "Yamaha Factor 150",
+    "placa": "BRZ-1014",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "5"
+  },
+  {
+    "id": "18",
+    "modelo": "Honda NXR 160 Bros",
+    "placa": "BRZ-1015",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "5"
+  },
+  {
+    "id": "19",
+    "modelo": "Honda Biz 125",
+    "placa": "BRZ-1016",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "5"
+  },
+  {
+    "id": "20",
+    "modelo": "Yamaha Fazer FZ25",
+    "placa": "BRZ-1017",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "5"
+  },
+  {
+    "id": "21",
+    "modelo": "Honda CB 300F Twister",
+    "placa": "BRZ-1018",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "5"
+  },
+  {
+    "id": "22",
+    "modelo": "Yamaha Lander 250",
+    "placa": "BRZ-1019",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "3"
+  },
+  {
+    "id": "23",
+    "modelo": "Royal Enfield Meteor 350",
+    "placa": "BRZ-1020",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "3"
+  },
+  {
+    "id": "24",
+    "modelo": "Honda PCX 150",
+    "placa": "BRZ-1021",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "3"
+  },
+  {
+    "id": "25",
+    "modelo": "Honda CG 160",
+    "placa": "BRZ-1022",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "3"
+  },
+  {
+    "id": "26",
+    "modelo": "Yamaha NMAX 160",
+    "placa": "BRZ-1023",
+    "posicao": "Sao Paulo",
+    "problema": null,
+    "status": "DISPONIVEL",
+    "ala_id": "3"
+  }
+]
