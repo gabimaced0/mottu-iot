@@ -10,7 +10,7 @@ A principal forma de visualização desses dados é um **mapa digital interativo
 
 Adicionalmente, o projeto inclui um **dashboard analítico** para a visualização de métricas gerenciais sobre a frota, como a distribuição de motos por ala e o status geral.
 
-### 📁 Estrutura da Simulação
+### Estrutura da Simulação
 
 Os arquivos nesta entrega representam os diferentes componentes da simulação de IoT:
 
@@ -19,7 +19,7 @@ Os arquivos nesta entrega representam os diferentes componentes da simulação d
 * `dashboard_json.py`: O script em Python que gera o **dashboard analítico**. Ele é construído com a biblioteca `Streamlit`.
 * `registro-database.json`: Um arquivo JSON que serve como uma simulação de banco de dados para o dashboard.
 
-### 🚀 Como Executar o Dashboard Analítico
+### Como Executar o Dashboard Analítico
 
 Enquanto o mapa interativo é a funcionalidade principal da aplicação completa, este repositório permite executar o dashboard analítico de forma independente para demonstração.
 
