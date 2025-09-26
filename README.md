@@ -17,7 +17,7 @@ Os arquivos nesta entrega representam os diferentes componentes da simulação d
 * `mottu_iot.ino`: O código para o microcontrolador (Arduino) que simula o leitor RFID, responsável por gerar e enviar os dados de localização que alimentariam o mapa.
 * `script.py`: Script em Python que atua como uma "ponte", recebendo os dados do microcontrolador (via porta serial) e enviando-os para o backend da aplicação através de requisições HTTP.
 * `dashboard_json.py`: O script em Python que gera o **dashboard analítico**. Ele é construído com a biblioteca `Streamlit`.
-* `registro-database.json`: Um arquivo JSON que serve como uma simulação de banco de dados para o dashboard.
+* `registro-database.json`: Um arquivo JSON exportado do banco de dados usado na entrega para visualizar no dashboard.
 
 ### Como Executar o Dashboard Analítico
 
